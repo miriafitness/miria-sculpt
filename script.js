@@ -1,0 +1,10 @@
+let water = 0;
+
+function addWater(amount){
+
+water += amount;
+
+document.getElementById("water").innerText =
+"Hoje: " + water + " ml";
+
+}
