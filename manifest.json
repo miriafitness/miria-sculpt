@@ -1,0 +1,8 @@
+{
+"name": "Miriá Sculpt",
+"short_name": "Miriá",
+"display": "standalone",
+"background_color": "#140b09",
+"theme_color": "#d6a56a",
+"start_url": "index.html"
+}
