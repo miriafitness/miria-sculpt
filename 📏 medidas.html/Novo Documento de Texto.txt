@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Medidas</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+<h1>Medidas</h1>
+</header>
+
+<div class="container">
+
+<div class="card">
+
+<p>Peso</p>
+<input type="number">
+
+<p>Cintura</p>
+<input type="number">
+
+<p>Abdômen</p>
+<input type="number">
+
+<p>Glúteo</p>
+<input type="number">
+
+<button class="gold-btn">Salvar</button>
+
+</div>
+
+</div>
+
+<nav class="menu">
+
+<a href="index.html">🏠</a>
+<a href="treino.html">🏋️</a>
+<a href="agua.html">💧</a>
+<a href="medidas.html">📏</a>
+<a href="fotos.html">📷</a>
+
+</nav>
+
+</body>
+
+</html>
