@@ -1,0 +1,8 @@
+{
+"name": "Miria Sculpt",
+"short_name": "Sculpt",
+"start_url": "/miria-sculpt/",
+"display": "standalone",
+"background_color": "#090505",
+"theme_color": "#c89458"
+}
