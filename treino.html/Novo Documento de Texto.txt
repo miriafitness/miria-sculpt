@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Treino</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+<h1>Treino</h1>
+</header>
+
+<div class="container">
+
+<div class="card">
+
+<h2>Segunda • Glúteo / Posterior</h2>
+
+<ul>
+
+<li>Elevação pélvica — 4x10</li>
+<li>Cadeira flexora — 4x12</li>
+<li>Mesa flexora — 4x12</li>
+<li>Afundo — 3x10</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<nav class="menu">
+
+<a href="index.html">🏠</a>
+<a href="treino.html">🏋️</a>
+<a href="agua.html">💧</a>
+<a href="medidas.html">📏</a>
+<a href="fotos.html">📷</a>
+
+</nav>
+
+</body>
+
+</html>
